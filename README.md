@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ntxuva Editora - Website
 Bem-vindo ao repositório do site da Ntxuva Editora, uma editora dedicada a transformar ideias em obras memoráveis. Este projeto é um site com backend em Flask e frontend em React com Tailwind CSS, projetado com um tema roxo, conforme solicitado.
 Descrição
@@ -99,3 +100,6 @@ Para dúvidas ou suporte, entre em contato com a Ntxuva Editora:
 
 Email: ntxuvaeditor@gmail.com
 WhatsApp: +258 84 622 6301
+=======
+# ntxuva-editora
+>>>>>>> aabce8fea6f3226b5acccaa9adfbc431d8d35a31
