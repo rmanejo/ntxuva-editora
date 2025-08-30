@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 Ntxuva Editora - Website
-Bem-vindo ao repositório do site da Ntxuva Editora, uma editora dedicada a transformar ideias em obras memoráveis. Este projeto é um site com backend em Flask e frontend em React com Tailwind CSS, projetado com um tema roxo, conforme solicitado.
+Bem-vindo ao repositório do site da Ntxuva Editora, uma editora dedicada a transformar ideias em obras memoráveis. Este projeto é um site com backend em Flask e frontend em HTML e CSS, projetado com um tema roxo.
 Descrição
 O site da Ntxuva Editora apresenta informações sobre a editora, seus serviços, autores, livros, concursos, notícias e formas de contato. Ele é estruturado como uma aplicação de página única (SPA) no frontend, com navegação suave entre seções, e um backend simples que serve o conteúdo estático.
 Funcionalidades
 
 Navegação Intuitiva: Barra de navegação com links para as seções: Início, Sobre Nós, Como Publicar, Serviços, Autores, Livros, Concursos, Notícias e Contacto.
-Design Responsivo: Estilizado com Tailwind CSS, garantindo boa aparência em dispositivos móveis e desktops.
+Design Responsivo: Estilizado com CSS, garantindo boa aparência em dispositivos móveis e desktops.
 Tema Roxo: Uso de cores como purple-800 (cabeçalhos e navegação), purple-100 (fundos de seções alternadas) e purple-50 (fundo geral).
 Conteúdo Completo:
 Início: Apresenta a missão da editora e os tipos de publicações (obras fictícias, não-fictícias, artigos científicos, ensaios).
@@ -100,6 +99,3 @@ Para dúvidas ou suporte, entre em contato com a Ntxuva Editora:
 
 Email: ntxuvaeditor@gmail.com
 WhatsApp: +258 84 622 6301
-=======
-# ntxuva-editora
->>>>>>> aabce8fea6f3226b5acccaa9adfbc431d8d35a31
