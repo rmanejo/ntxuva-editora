@@ -35,6 +35,17 @@ document.addEventListener('DOMContentLoaded', function() {
         menuBtn.classList.toggle('active');
     });
 
+    // Fecha o menu ao clicar em qualquer lugar fora dele
+    document.addEventListener('click', (event) => {
+        const isClickInsideNav = nav.contains(event.target);
+        const isClickOnButton = menuBtn.contains(event.target);
+
+        if (nav.classList.contains('active') && !isClickInsideNav && !isClickOnButton) {
+            nav.classList.remove('active');
+            menuBtn.classList.remove('active');
+        }
+    });
+
     // Dynamic Copyright Year
     document.getElementById('copyright-year').textContent = new Date().getFullYear();
 });
